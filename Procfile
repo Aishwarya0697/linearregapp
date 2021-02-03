@@ -1,0 +1,1 @@
+web: gunicorn app:app  #On heroku depoyment file name should be app

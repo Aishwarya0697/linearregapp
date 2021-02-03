@@ -1,0 +1,17 @@
+step1: Create the separate anaconda enviroment.
+        conda create -n linearapp python==3.6.9
+step2: Install the requirements file
+        pip install -r requirements.txt
+step4: Intialise your project as git project ( git is used for heroku depolyment)
+ Window user : righ click on where project file and click on git bash here
+            1) intialize the git : git init
+            2)start tracking the files : git add .
+            3) check the file present : git status
+            4) keep the copy of the file with you so it will show the changes: git commit -n "initial commit"
+step3: create a file name as procfile
+           (there should not be any extension for this proc file)
+            (p should be capital)
+step5:start tracking all the project files
+        git add .
+
+
