@@ -15,4 +15,9 @@ step5:start tracking all the project files
         git add .
         git status
 
+step6: heroku create #it will start the heroku
+step7: git remote -v (it will give the url so if we want to push of pull somthing we have use this url
+step8:git push heroku master #now it will push everything on the cloud
+
+
 
