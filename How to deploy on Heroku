@@ -7,11 +7,12 @@ step4: Intialise your project as git project ( git is used for heroku depolyment
             1) intialize the git : git init
             2)start tracking the files : git add .
             3) check the file present : git status
-            4) keep the copy of the file with you so it will show the changes: git commit -n "initial commit"
+            4) keep the copy of the file with you so it will show the changes: git commit -m "initial commit"
 step3: create a file name as procfile
            (there should not be any extension for this proc file)
             (p should be capital)
 step5:start tracking all the project files
         git add .
+        git status
 
 
